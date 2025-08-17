@@ -1,2 +1,10 @@
+#Hi, I'm Mahdi Riahi
 # mahdi-riahi.github.io
-A Python Developer
+
+#Skills:
+- Python
+- OOP
+- Data Analysis
+
+##projects:
+- [Hotel Management System] (https://github.com/mahdi-riahi/Hotel-Management-System)
